@@ -1,5 +1,6 @@
 <div align=center>
-  <pre>█▀▀ █▄█ █▄▄ █▀▀ █▀█   █▀ █▀▀ █▀▀ █░█ █▀█ █ ▀█▀ █▄█
-█▄▄ ░█░ █▄█ ██▄ █▀▄   ▄█ ██▄ █▄▄ █▄█ █▀▄ █ ░█░ ░█░
-<strong>Adversary Simulation / Reverse Engineering / Red & Purple Teaming</strong></pre>
+  <pre>░█▀█░█▀▀░█▀▀░█▀▀░█▀█░█▀▀░▀█▀░█░█░█▀▀░░░█▀▀░█▀▀░█▀▀░█░█░█▀▄░▀█▀░▀█▀░█░█
+░█░█░█▀▀░█▀▀░█▀▀░█░█░▀▀█░░█░░▀▄▀░█▀▀░░░▀▀█░█▀▀░█░░░█░█░█▀▄░░█░░░█░░░█░
+░▀▀▀░▀░░░▀░░░▀▀▀░▀░▀░▀▀▀░▀▀▀░░▀░░▀▀▀░░░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░░▀░░░▀░
+<strong>🦦 Adversary Simulation / Reverse Engineering / Red & Purple Teaming 🦕</strong></pre>
 </div>
